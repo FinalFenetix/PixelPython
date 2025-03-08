@@ -1,4 +1,4 @@
-## **SCROLL DOWN FOR RELEASES******
+## **SCROLL DOWN FOR RELEASES**
 
 # **PyTerminal Game Engine**
 
