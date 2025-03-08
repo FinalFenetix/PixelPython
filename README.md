@@ -1,15 +1,13 @@
 ## **SCROLL DOWN FOR RELEASES**
 
-# **PyTerminal Game Engine**
+# **PyxelTerm Game Engine**
 
-**PyTerminal is a 'Game Engine', if you can even call it that**. It runs in the terminal, its a top-down 2D game engine sorta and has collision physics and movement.
+**PyxelTerm is a 'Game Engine', if you can even call it that**. It runs in the terminal, its a 2D game engine sorta and has collision physics and movement.
 
 **Here's what I plan on adding:**
 
-Entity Creator class to help make new objects and characters easy
-Built-in dialogue system (if you want to have NPCs)
-Gravity physics!!!!
-A wider variety of emojis to use for the terminal
+- Built-in dialogue system (if you want to have NPCs)
+- Gravity physics!!!!
 I'm going to add to this list the more ideas I get!
 
 # Releases
