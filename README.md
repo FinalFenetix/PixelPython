@@ -13,6 +13,6 @@ A wider variety of emojis to use for the terminal
 I'm going to add to this list the more ideas I get!
 
 # Releases
-- Click [here](https://github.com/FinalFenetix/PixelPython/releases/latest) for the **latest release**
+- Click [here](https://github.com/FinalFenetix/PixelPython/releases/LatestRelease) for the **latest release**
 - Click [here](https://github.com/FinalFenetix/PixelPython/releases/outdated) for **more releases**
 - Click [here](https://github.com/FinalFenetix/PixelPython/releases/experimental) for the **experimental release**
